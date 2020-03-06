@@ -8,8 +8,7 @@
             "server": "http://localhost",
             "serverInstance": "BC130_Ex8",
             "authentication": "Windows",
-            "startupObjectId": 
-            ,
+            "startupObjectId": 50101,
             "startupObjectType": "Page",
             "schemaUpdateMode": "Recreate",
             "breakOnError": true,
